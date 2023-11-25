@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitprakash1986&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitprakash1986" /> </p>
 
-- 🔭 I’m currently working on **on Sports Analytics and Sustainability projects**
+- 🔭 I’m currently working on **on Sustainability and Data Engineering**
 
-- 🌱 I’m currently learning **Large Language Models**
+- 🌱 I’m currently learning **Azure Cloud computing**
 
 - 👨‍💻 All of my projects are available at [https://ranjitprakash1986.github.io/](https://ranjitprakash1986.github.io/)
 
